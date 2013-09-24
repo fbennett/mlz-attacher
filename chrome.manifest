@@ -1,0 +1,9 @@
+content   zotero-attacher           chrome/content/
+
+locale	zotero-attacher	en-US		chrome/locale/en-US/attacher/
+
+overlay	chrome://browser/content/browser.xul	chrome://zotero-attacher/content/browser.xul
+
+skin		zotero-attacher	default		chrome/skin/default/attacher/
+
+contract	@zotero.org/Zotero;1 							{e4c61080-ec2d-11da-8ad9-0800200c9a66}

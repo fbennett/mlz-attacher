@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="attachme-2.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.74074073;fill:#008000;fill-opacity:1"
+       id="rect2989"
+       width="145.71429"
+       height="42.143009"
+       x="157.14287"
+       y="419.50504"
+       rx="19.793539"
+       inkscape:export-filename="/home/bennett/src/attacher/chrome/skin/default/attacher/attachme-2.png"
+       inkscape:export-xdpi="34.169323"
+       inkscape:export-ydpi="34.169323" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:536.99998856000001979%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:TeXGyrePagella;-inkscape-font-specification:TeXGyrePagella"
+       x="168.57143"
+       y="453.79074"
+       id="text2985"
+       sodipodi:linespacing="536.99999%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="168.57143"
+         y="453.79074"
+         style="-inkscape-font-specification:TeXGyreHeros Bold;font-family:TeXGyreHeros;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#ffffff">Attach</tspan></text>
+    <rect
+       style="opacity:0.74074073;fill:#ffffff;fill-opacity:1"
+       id="rect2991"
+       width="160"
+       height="105"
+       x="114.28571"
+       y="525.2193"
+       rx="28.364967" />
+    <rect
+       style="opacity:0.74074073;fill:#ffffff;fill-opacity:1"
+       id="rect2993"
+       width="155.71426"
+       height="85.000092"
+       x="112.14286"
+       y="532.36218"
+       rx="77.857132" />
+    <rect
+       style="opacity:0.74074073;fill:#ffffff;fill-opacity:1"
+       id="rect2997"
+       width="125"
+       height="142.85713"
+       x="175"
+       y="525.93359"
+       rx="36.07143"
+       ry="30.714285" />
+    <rect
+       style="opacity:0.74074073;fill:#008000;fill-opacity:1"
+       id="rect3001"
+       width="2.8571429"
+       height="1.4285715"
+       x="-84.285713"
+       y="395.93362"
+       rx="19.793539"
+       inkscape:export-xdpi="1007.9877"
+       inkscape:export-ydpi="1007.9877" />
+  </g>
+</svg>

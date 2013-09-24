@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!--
+    ***** BEGIN LICENSE BLOCK *****
+    
+    Copyright © 2009 Center for History and New Media
+                     George Mason University, Fairfax, Virginia, USA
+                     http://zotero.org
+    
+    This file is part of Zotero.
+    
+    Zotero is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+    
+    Zotero is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+    
+    You should have received a copy of the GNU Affero General Public License
+    along with Zotero.  If not, see <http://www.gnu.org/licenses/>.
+    
+    ***** END LICENSE BLOCK *****
+-->
+
+
+<?xml-stylesheet href="chrome://zotero/skin/overlay.css" type="text/css"?>
+<?xml-stylesheet href="chrome://zotero-platform/content/overlay.css" type="text/css"?>
+
+<!DOCTYPE overlay [
+	<!ENTITY % globalDTD SYSTEM "chrome://global/locale/global.dtd"> %globalDTD;
+	<!ENTITY % zoteroDTD SYSTEM "chrome://zotero-attacher/locale/attacher.dtd"> %zoteroDTD;
+]>
+
+<overlay id="attacher-browser"
+	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	
+    <!-- Include the global XPCOM object -->
+	<!-- script src="overlay.js"/ -->
+	<script src="browser.js"/>
+	
+	<!-- Scrape Code -->
+	<hbox id="urlbar-icons">
+		<popupset>
+			<menupopup id="attacher-status-image-context" onpopupshowing="ZoteroAttacher.onStatusPopupShowing(event)"/>
+		</popupset>
+		<image src="chrome://zotero-attacher/skin/attachme.png" id="attacher-status-image"
+			onclick="if(event.button === 0) ZoteroAttacher.scrapeThisPage()" context="attacher-status-image-context"
+			position="1" hidden="true" style="margin-right:5px;"/>
+	</hbox>
+		
+</overlay>
